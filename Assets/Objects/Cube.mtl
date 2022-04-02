@@ -1,0 +1,11 @@
+newmtl Paleta
+map_Kd Paleta_Jungle.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material
+map_Kd TexturesCom_Wall_BrickSloppy_2.5x2.5_512_albedo.tif
+bump TexturesCom_Wall_BrickSloppy_2.5x2.5_512_normal.tif
+Kd 1 1 1
+d 1
+
